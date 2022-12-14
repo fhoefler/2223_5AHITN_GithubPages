@@ -4,3 +4,5 @@ plugins:
 
 title: [My first Github page]
 description: [This is just a test]
+
+show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
